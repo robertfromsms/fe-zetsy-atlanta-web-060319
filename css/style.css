@@ -25,12 +25,13 @@ h1 {
   font-family: 'Baskerville', serif;
 }
 
-.title {
+#top-title {
   color: rgb(152,173,166);
 	text-decoration: none;
 }
 
-.small {
+.title {
+  color: rgb(111,127,122)
   font-size: 2em;
 }
 
