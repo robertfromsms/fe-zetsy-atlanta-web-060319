@@ -32,6 +32,8 @@ h1 {
 #top-title {
   color: rgb(152,173,166);
 	text-decoration: none;
+  background: transparent;
+  margin: 0 0;
 }
 
 .title {
