@@ -25,6 +25,10 @@ h1 {
   font-family: 'Baskerville', serif;
 }
 
+#feature-image img {
+  border: 5px rgb(152,173,166) solid;
+}
+
 #top-title {
   color: rgb(152,173,166);
 	text-decoration: none;
